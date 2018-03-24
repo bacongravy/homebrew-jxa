@@ -4,4 +4,6 @@ Casks and formulae for apps and tools written in the JavaScript for Automation (
 
 ## Usage
 
-`brew cask tap bacongravy/jxa`
+```bash
+brew cask tap bacongravy/jxa
+```
